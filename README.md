@@ -1,7 +1,7 @@
-# Validar Senha Segura
+# Validate Secure Password
 Validate whether the user's password is secure according to pre-defined criteria.
 
-## Regras de negócio:
+## Business Rules:
 
   • check that the password has at least 8 characters;  
   • check whether the password contains at least one capital letter;  
